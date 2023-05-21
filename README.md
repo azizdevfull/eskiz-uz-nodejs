@@ -23,7 +23,7 @@ Eskiz xizmati orqali integratsiyani boshlash uchun sizga `ESKIZ_EMAIL` va `ESKIZ
 
 ### Birinchi SMS-xabarni yuborishga tayyormisiz?
 
-![banner](https://i.postimg.cc/3r0mqt88/carbon-1.png' "banner")
+![banner](https://i.postimg.cc/TYsTyc8s/carbon-10.png' "banner")
 
 
 Qo'shimcha ma'lumot uchun [bu havolaga](https://documenter.getpostman.com/view/663428/RzfmES4z?version=latest) o'ting

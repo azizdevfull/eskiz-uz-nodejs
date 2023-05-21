@@ -1,6 +1,6 @@
 {
   "name": "azizdev-eskiz-uz",
-  "version": "1.2.0",
+  "version": "1.2.3",
   "description": "Bu eskiz uz sms servis ning node js uchun tayyor plagini AzizDev tomonidan tayyorlandi!",
   "main": "index.js",
   "scripts": {
