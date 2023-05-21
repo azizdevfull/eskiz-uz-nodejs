@@ -13,32 +13,18 @@ Bu kodlar quyidagi xizmat integratsiyalarini o'z ichiga oladi:
 ## O'rnatish
 Github'dan loyihani klonlashtiring:
 ```console
-git clone https://github.com/azizdevfull/eskiz-uz-nodejs.git
-```
-
-SMS-xizmatlarining ishlashi uchun kerakli barcha paketlarni o'rnatib olasiz:
-```bash
-npm install
+npm install azizdev-eskiz-uz
 ```
 
 ## [Eskiz.uz](https://eskiz.uz/) integratsiyasi
 
 Eskiz xizmati orqali integratsiyani boshlash uchun sizga `ESKIZ_EMAIL` va `ESKIZ_PASSWORD` kerak bo'ladi. Bu ma'lumotni [ kompaniya bilan shartnoma yopishdan keyin](https://eskiz.uz/reseller) olishingiz mumkin.
 
-Kerakli kalitlarni olishdan keyin, ularni yozib olish uchun `.env` faylini yaratishingiz kerak yoki tayyor shablonni `env.example` nusxalab olasiz:
-```console
-cp env.example .env
-```
-
-`ESKIZ_EMAIL` va `ESKIZ_PASSWORD` maydonlarini to'ldiring
-
-`index.js` fayliga o'ting va `phone_number` o'zgaruvchisida telefon raqamingizni kiritng
-
 
 ### Birinchi SMS-xabarni yuborishga tayyormisiz?
-```console
-node index.js
-```
+
+![banner](https://i.postimg.cc/3r0mqt88/carbon-1.png' "banner")
+
 
 Qo'shimcha ma'lumot uchun [bu havolaga](https://documenter.getpostman.com/view/663428/RzfmES4z?version=latest) o'ting
 

@@ -1,7 +1,7 @@
 {
-  "name": "eskiz-uz",
-  "version": "1.0.0",
-  "description": "Bu eskiz uz sms servis ning node js uchun tayyor shabloni",
+  "name": "azizdev-eskiz-uz",
+  "version": "1.2.0",
+  "description": "Bu eskiz uz sms servis ning node js uchun tayyor plagini AzizDev tomonidan tayyorlandi!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
