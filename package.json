@@ -1,0 +1,15 @@
+{
+  "name": "eskiz-uz",
+  "version": "1.0.0",
+  "description": "Bu eskiz uz sms servis ning node js uchun tayyor shabloni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AzizDev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.1"
+  }
+}
