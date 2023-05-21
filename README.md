@@ -11,7 +11,7 @@ Bu kodlar quyidagi xizmat integratsiyalarini o'z ichiga oladi:
 - Eskiz - Internetdagi o'zingiz uchun joy bron qiling. [Rasmiy sayti](https://eskiz.uz/)
 
 ## O'rnatish
-Github'dan loyihani klonlashtiring:
+Kutubxonani o'rnatish:
 ```console
 npm install azizdev-eskiz-uz
 ```
